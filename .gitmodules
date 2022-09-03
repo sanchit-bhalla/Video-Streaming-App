@@ -1,0 +1,3 @@
+[submodule "video-streaming-client-app"]
+	path = video-streaming-client-app
+	url = https://github.com/sanchit-bhalla/video-streaming-client-app.git
