@@ -1,3 +1,9 @@
 [submodule "video-streaming-client-app"]
 	path = video-streaming-client-app
 	url = https://github.com/sanchit-bhalla/video-streaming-client-app.git
+[submodule "video-streaming-rtmpserver"]
+	path = video-streaming-rtmpserver
+	url = https://github.com/sanchit-bhalla/video-streaming-rtmpserver.git
+[submodule "video-streaming-apis"]
+	path = video-streaming-apis
+	url = https://github.com/sanchit-bhalla/video-streaming-apis.git
